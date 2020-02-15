@@ -1,0 +1,10 @@
+a=float(5.2);
+print(a);
+print(\n);
+chaine = 'Bienvenu à tous et à toutes';
+print(\n);
+chaine2 = "Avant de continuer, je vous demanderai de bien vouloir entrer votre âge pour mon plus grand plaisir";
+age = input("age : ");
+chaine3 = "Donc comme ça, vous avez";
+print(age);
+chaine = "ans";
